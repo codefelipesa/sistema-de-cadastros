@@ -1,4 +1,4 @@
-<h1>Sistema de Cadastros de Jogos 🎮</h1>
+<h1>Sistemas de Cadastro de Jogos 🎮</h1>
 
 >Status do Projeto: Em Desenvolvimento
 
