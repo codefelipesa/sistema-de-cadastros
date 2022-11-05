@@ -1,8 +1,8 @@
-<h1>Sistema de Cadastros 🪪</h1>
+<h1>Sistema de Cadastros de Jogos 🎮</h1>
 
 >Status do Projeto: Em Desenvolvimento
 
 Para rodar esse projeto, digite:
 ```
-npm install react
+node app.js
 ```
